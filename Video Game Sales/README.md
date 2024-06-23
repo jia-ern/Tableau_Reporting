@@ -1,6 +1,6 @@
 # Video Game Sales
 Data source: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesalesM)
-- This dataset is to perform sales data analyze from more than 16,500 games.
+- This dataset performs sales data analysis from more than 16,500 games.
 
 
 ## This folder consists of a Video Game Sales dashboard
