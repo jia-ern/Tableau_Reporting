@@ -6,4 +6,7 @@ Data source: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregoru
 ## This folder consists of a Video Game Sales dashboard
 - Video Game Global Sales per Year
 - Video Game Global Sales by Genre
+  
 ![Data](https://github.com/jia-ern/Tableau_Reporting/blob/b2fa1956a25c322c3a6e7059eab8695a887e92db/Video%20Game%20Sales/vgsales.PNG)
+
+![Dashboard](https://github.com/jia-ern/Tableau_Reporting/blob/0249f97545902cade34b8fd8a3cc1171d5bbaee1/Video%20Game%20Sales/Video%20Game%20Sales%20Dashboard.png)
